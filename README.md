@@ -2,6 +2,7 @@
 
 This project provides a FastAPI interface to serve Ollama models. It allows other applications to send queries to the model and receive responses.
 
+[The Future of AI Knowledge Retrieval: Inside LangChain-Streamlit-RAG](https://app.readytensor.ai/publications/the-future-of-ai-knowledge-retrieval-inside-langchain-streamlit-rag-IrZGq54S2ryw)
 ## Features
 
 - **LangChain**: Manages and processes language models.
